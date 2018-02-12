@@ -228,8 +228,10 @@ pre {
 }
 .carousel {
   margin-bottom: 20px;
+  background-color: #fff;
 }
 .carousel img {
+  box-sizing: border-box;
   width: 100%;
 }
 /*====================================================
