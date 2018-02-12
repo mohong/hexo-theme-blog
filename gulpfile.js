@@ -17,9 +17,9 @@
         path = require('path'),
         paths = {
             root: './',
-            source: './themes/snippet/source/' //主题下原文件
-        }
-
+            source: __dirname + '/source/' //主题下原文件
+        };
+        console.log(__dirname);
     /*====================================================
          开发主题
     ====================================================*/

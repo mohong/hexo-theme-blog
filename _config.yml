@@ -53,10 +53,7 @@ jsonContent:
 
 ## 网站公告设置
 notification: |-
-            <p>主题Snippet v1.2.0版本已经上线！欢迎更新~ <br/>
-            主题下载：<a href="https://github.com/shenliyang/hexo-theme-snippet" title="fork me" target="_blank">Snippet主题</a> <br/>
-            <hr/>接受贡献，包括不限于提交问题与需求，修复代码。欢迎Pull Request<br/>支持主题：<a href="https://github.com/shenliyang/hexo-theme-snippet/stargazers">Star一下</a>
-            </p>
+            <p><img src="img/wx.png" style="width:100%;height:100%" /></p>
 
 ## 社交设置
 social:
@@ -92,13 +89,13 @@ arch_config:
 
 ## 友链设置
 links:
-  - 个人博客: http://www.arthas.com.cn
+  - 个人博客: http://arthas.com.cn
 
 
 # 主题自定义个性化配置
 
 ## 网站宣传语
-branding:
+branding: arthas.com.cn
 
 ## 设置banner背景图片
 banner:
