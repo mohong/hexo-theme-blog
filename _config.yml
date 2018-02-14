@@ -14,6 +14,9 @@ menu:
 - page: 后端
   url: /categories/后端/
   icon: 
+- page: 设计
+  url: /categories/设计/
+  icon:
 - page: 工具
   url: /categories/工具/
   icon: 
