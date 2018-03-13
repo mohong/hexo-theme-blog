@@ -1,7 +1,7 @@
 <% if (theme.disqus.count){ %>
   <script id="dsq-count-scr" src="https://<%= theme.disqus.shortname %>.disqus.com/count.js" async></script>
 <% } %>
-
+<div id="disqus_thread"></div>
 <script type="text/javascript">
   var disqus_config = function () {
     this.page.url = '<%= page.permalink %>';

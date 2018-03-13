@@ -149,12 +149,12 @@ livere:
 ### 友言评论(服务不稳定)
 uyan:
   enable: false
-  uyan_id: 1966422
+  uyan_id: 2159112
 
 ### Disqus评论
 disqus:
-  enable: false
-  shortname: snippet
+  enable: true
+  shortname: arthas-com-cn
   count: false
 
 ### 畅言评论(需要ICP备案)
