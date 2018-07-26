@@ -16,13 +16,16 @@ menu:
   icon: 
 - page: 设计
   url: /categories/设计/
-  icon:
+  icon: 
 - page: 工具
-  url: /categories/工具/
+  url: /tools
   icon: 
-- page: 资源
-  url: /categories/资源/
-  icon: 
+- page: 算法
+  url: https://mohong.gitbooks.io/algorithms-note/content/
+  icon:
+- page: 关于
+  url: /about
+  icon:
 
 ## favicon 
 favicon: /favicon.ico
@@ -56,7 +59,8 @@ jsonContent:
 
 ## 网站公告设置
 notification: |-
-            <p><img src="/img/wx.png" style="width:100%;height:100%" /></p>
+            <p> <!--  <img src="/img/wx.png" style="width:100%;height:100%" /> --></p>
+            <p>Each man is the architect of his own fate.</p>
 
 ## 社交设置
 social:
@@ -71,7 +75,7 @@ social:
    href: /
  - name: 微博
    icon: weibo
-   href: /
+   href: //weibo.com/u/2493413125
  - name: QQ群
    icon: users
    href: /
@@ -93,6 +97,9 @@ arch_config:
 ## 友链设置
 links:
   - 个人博客: http://arthas.com.cn
+  - Leetcode: https://leetcode.com/mohong/
+  - 站酷: http://m.zcool.com.cn/
+  - segmentfault: https://segmentfault.com/u/mohong
 
 
 # 主题自定义个性化配置
