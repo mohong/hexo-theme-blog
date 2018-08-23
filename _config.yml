@@ -7,7 +7,7 @@
 menu:
 - page: home
   url: /
-  icon: 
+  icon:
 - page: 前端
   url: /categories/前端/
   icon: 
