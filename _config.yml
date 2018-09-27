@@ -82,7 +82,7 @@ social:
 
 ## 网站公告设置
 notification: |-
-            <p><img src="/img/branding.png" style="width:100%;height:100%" /></p>
+            <!-- <p><img src="/img/branding.png" style="width:100%;height:100%" /></p> -->
 
 ## 文章归档设置
 arch_config:
