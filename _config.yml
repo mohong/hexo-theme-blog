@@ -57,10 +57,10 @@ jsonContent:
     categories: true
     tags: true
 
-## 网站公告设置
-notification: |-
-            <p> <!--  <img src="/img/wx.png" style="width:100%;height:100%" /> --></p>
-            <p>Each man is the architect of his own fate.</p>
+## 文章分类设置
+cate_config:
+   show_count: true
+   show_current: true
 
 ## 社交设置
 social:
@@ -76,17 +76,13 @@ social:
  - name: 微博
    icon: weibo
    href: //weibo.com/u/2493413125
- - name: QQ群
-   icon: users
-   href: /
  - name: RSS
    icon: feed
    href: /atom.xml
 
-## 文章分类设置
-cate_config:
-   show_count: true
-   show_current: true
+## 网站公告设置
+notification: |-
+            <p><img src="/img/branding.png" style="width:100%;height:100%" /></p>
 
 ## 文章归档设置
 arch_config:
